@@ -2,5 +2,6 @@
     <string name="app_name">GuiaEjerDia11</string>
     <string name="show_message">Show Message</string>
     <string name="escribe_una_contrase_a">Escribe una contraseña</string>
+    <string name="escribe_una_contrase_a2">Ingrese una contraseña</string>
     <string name="password_message">La contraseña tiene más de %1$d caracteres</string>
 </resources>
